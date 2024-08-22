@@ -29,7 +29,13 @@
 
 ###
 
-<p align="left">Hey, I am Arun Kumar<br><br>As a passionate and dedicated Web Developer, I specialize in creating dynamic, responsive, and user-friendly websites and web applications.I bring a holistic approach to web development that ensures seamless performance and optimal user experience.<br><br>Skills :<br><br>Front-End Development: HTML5, CSS3, TailwindCSS JavaScript, React,<br>Back-End Development: Node.js, <br>Database Management: MySQL, MongoDB<br>Version Control: Git, GitHub<br><br>Personal Philosophy :<br><br>I believe in the power of clean, maintainable code and the importance of creating seamless user experiences. My approach to front-end development combines creativity with technical expertise to build interfaces that are both beautiful and functional.<br><br>Let's Connect:<br><br>I am always open to new opportunities and connections. Whether you're looking for a skilled web developer for your next project or just want to network, feel free to reach out. Let's create something amazing together.</p>
+<p align="left">
+ Hey there! 👋, I am Web Developer, I specialize in creating dynamic, responsive, and user-friendly websites and web applications. I bring a holistic approach to web development that ensures seamless performance and optimal user experience. <br/>
+
+I believe in the power of clean, maintainable code and the importance of creating seamless user experiences. My approach to front-end development combines creativity with technical expertise to build interfaces that are both beautiful and functional. <br/>
+
+I am always open to new opportunities and connections. Whether you're looking for a skilled web developer for your next project or just want to network, feel free to reach out. Let's create something amazing together.
+</p>
 
 ###
 
