@@ -1,6 +1,4 @@
 <p>Hii, There</p>
-<h3 align="center">A passionate frontend developer from India</h3>
-
 - 🔭 I’m currently working on [hi-rescue](https://hi-rescue.vercel.app/)
 
 - 👯 I’m looking to collaborate on [hi-rescue](https://hi-rescue.vercel.app/)
