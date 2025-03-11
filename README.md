@@ -1,8 +1,4 @@
 ## Hey 👋, I'm Arun kumar  
-  
-
-
-
 ### Glad to see you here!  
 Passionate about creating beautiful, responsive, and user-friendly web applications
 I love building software that solves real world problems which is probably why everything I build is Open Source.
