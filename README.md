@@ -1,12 +1,6 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hey there 👋, I'm Arun Kumar</h1>
+<h3 align="center">Full-Stack Developer | Building cool things with code 🚀</h3>
 
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=hiarun01&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=MERN+Stack+Developer;Frontend+Focused,+Backend+Capable;Always+learning+new+things!&center=true&width=500&height=45" />
+</p>
