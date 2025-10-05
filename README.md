@@ -1,3 +1,3 @@
 a dev, love building things...
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hiarun01&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hiarun01&theme=algolia)
